@@ -1,0 +1,79 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  main .divPadre {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 40px;
+  }
+  main .divPadre__hijo {
+    width: 20%;
+  }
+  main .divPadre__hijo--letra {
+    text-align: center;
+    margin: 20px;
+  }
+  main .divPadre__hijo--color {
+    width: 100%;
+    height: 150px;
+    border: 1px solid black;
+  }
+  main .divPadre__hijo--1 {
+    width: 100%;
+    height: 100%;
+  }
+  main .divPadre__hijo--2 {
+    width: 100%;
+    height: 100%;
+  }
+  main .divPadre__hijo--3 {
+    width: 100%;
+    height: 100%;
+  }
+  main .divPadre__hijo--4 {
+    width: 100%;
+    height: 100%;
+  }
+  main .divPadre__hijo--5 {
+    width: 100%;
+    height: 100%;
+  }
+  main .divPadre__hijo--codigo1 {
+    text-align: center;
+    margin: 20px;
+  }
+  main .divPadre__hijo--codigo2 {
+    text-align: center;
+    margin: 20px;
+  }
+  main .divPadre__hijo--codigo3 {
+    text-align: center;
+    margin: 20px;
+  }
+  main .divPadre__hijo--codigo4 {
+    text-align: center;
+    margin: 20px;
+  }
+  main .divPadre__hijo--codigo5 {
+    text-align: center;
+    margin: 20px;
+  }
+  main .divButton__boton {
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    margin-bottom: 100px;
+  }/*# sourceMappingURL=style.css.map */
